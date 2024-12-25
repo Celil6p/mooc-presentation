@@ -33,7 +33,7 @@ export default function Home() {
           MOOCs: A Path to Global Learning
         </h1>
         <p className="text-slate-200 text-2xl animate-fade-in-delay">
-          Exploring the Power of Online Education
+          Muhammed Celil Altiparmak 240126101047
         </p>
       </section>
 
@@ -324,13 +324,12 @@ export default function Home() {
         className="flex flex-col items-center justify-center bg-gradient-to-r from-indigo-900 to-black p-16"
       >
         <h2 className="text-4xl text-center font-bold text-slate-50 mb-6">
-          Start Exploring MOOCs Today!
+          Thanks for listening.
         </h2>
         <p className="text-slate-100 text-lg mb-8 text-center max-w-2xl">
-          Expand your knowledge, sharpen your skills, and join a global community
-          of learners. Embrace the future of education—one click at a time.
+          Source: ChatGPT
         </p>
-        <p className="text-slate-300 text-xl font-semibold">Thank you!</p>
+        
         <p className="text-slate-300 text-lg">Any questions?</p>
       </section>
     </>
